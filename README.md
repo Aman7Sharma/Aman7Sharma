@@ -1,6 +1,6 @@
  ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-TheMadCollections-red)](https://www.youtube.com/channel/UCCbqu87N9_G9CpK0HUNl8aw)
+<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-TheMadCollections-red)](https://www.youtube.com/channel/UCCbqu87N9_G9CpK0HUNl8aw)
 [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman7sharma)](https://www.linkedin.com/in/aman7sharma)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aman-green)](https://aman-zomat1-app.herokuapp.com/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aman-yellow)]()
@@ -8,7 +8,7 @@
 I'm
 Full Stack Web Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (JavaScript, NodeJs, ExpressJs), design (working closely with designers), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, BootStrap), Server Administrator(Netlify, Heroku, Aws),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+ -->
 
 ![Visitor Count](https://profile-counter.glitch.me/Aman&Sharma/count.svg)
 
