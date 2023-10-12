@@ -7,8 +7,7 @@
 
 I'm
 Full Stack Web Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (JavaScript, NodeJs, ExpressJs), design (working closely with designers), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, BootStrap), Server Administrator(Netlify, Heroku, Aws),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
- 
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (JavaScript, NodeJs, ExpressJs,Django), design (working closely with designers), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, BootStrap), Server Administrator(Netlify, Heroku, Aws),database(MongoDB,Mysql)
 
 ![Visitor Count](https://profile-counter.glitch.me/Aman&Sharma/count.svg)
 
